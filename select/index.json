@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "リターン・ゼロ",
+  "base_artist": "Aliey:S",
+  "createdAt": "2026-02-16T15:02:46.865809Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "リターン・ゼロ (feat. 足立レイ)",
+      "artist": "Aliey:S",
+      "has_synced": false,
+      "path": "select/pl_01_リターン・ゼロ_(feat._足立レイ)_Aliey_S.txt"
+    }
+  ]
+}
